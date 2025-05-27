@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+20102055 SeokheonHam 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I'm a senior student currently taking OpensourceSW class. Thank you!
 
