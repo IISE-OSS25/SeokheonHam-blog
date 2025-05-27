@@ -1,9 +1,3 @@
----
-layout: post
-title: Article 1
----
-
-
 # OSS Project Evaluation Activity
 
 
@@ -23,7 +17,7 @@ __Project website:__ [Website](https://godotengine.org)
 
 __What is the purpose of the project:__ Godot is an open-source, cross-platform game engine designed for 2D and 3D game development. It aims to provide a fully free, feature-rich alternative to commercial game engines.
 
-__How easy was it to find information about contributing on the website?__ Quite easy. The homepage includes a clear link to the Contribute section.
+__How easy was it to find information about contributing on the website?__ Quite easy. The homepage includes a clear link to the “Contribute” section.
 
 __Contributing instructions:__ [Here](https://docs.godotengine.org/en/stable/community/contributing/index.html)
 
